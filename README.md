@@ -16,7 +16,7 @@ I am studying the profession of a frontend developer <img src="https://media.gip
 - :books: I devote all my free time to studying.
 - :octocat: Writing code is now my hobby!
 - :mag_right: I will consider internship offers for a junior frontend developer or a coder
-- :mailbox_with_mail: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Alesia-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/SportgirlAlesia)
+- :mailbox_closed: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Alesia-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/SportgirlAlesia)
 - :e-mail: sportgirl16031988@outlook.com
 ---
 
